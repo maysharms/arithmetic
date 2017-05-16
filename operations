@@ -3,8 +3,8 @@ uisng namespace std;
 
 int main()
 {
-  int a,b;
+  int a,b,sum;
   cin>>a>>b;
-  int sum=a+b;
+  sum=a+b;
   cout<<sum;
 }
