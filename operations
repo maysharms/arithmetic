@@ -8,8 +8,13 @@ int main()
   sum=a+b;
   cout<<sum;
   int sub;
-  sub=a-b;
+  //sub=a-b;
   cout<<sub;
-  int mul=a*b;
+  //int mul=a*b;
   cout<<mul;
+  int c;
+  cin>>c;
+  int mult=a*b*c;
+  cout<<mult;
+  
 }
