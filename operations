@@ -10,4 +10,6 @@ int main()
   int sub;
   sub=a-b;
   cout<<sub;
+  int mul=a*b;
+  cout<<mul;
 }
